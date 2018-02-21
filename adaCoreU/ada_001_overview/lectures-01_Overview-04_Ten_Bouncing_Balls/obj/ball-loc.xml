@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<Locations>
+  <Project>
+    <vfs_file>C:\Software\ada\ada_practice\adaCoreU\01_overview\lectures-01_Overview-04_Ten_Bouncing_Balls\ball.gpr</vfs_file>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\Software\ada\ada_practice\adaCoreU\02_basic_types\labs-Stars-01_Basic_Types\stars.gpr</vfs_file>
+    </file_marker>
+    <file_marker column=" 23" line=" 9" >
+      <vfs_project />
+      <vfs_file>C:\Software\ada\ada_practice\adaCoreU\02_basic_types\labs-Stars-01_Basic_Types\stars.gpr</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\Software\ada\ada_practice\adaCoreU\01_overview\lectures-01_Overview-04_Ten_Bouncing_Balls\ball.gpr</vfs_file>
+    </file_marker>
+    <file_marker column=" 23" line=" 6" >
+      <vfs_project />
+      <vfs_file>C:\Software\ada\ada_practice\adaCoreU\01_overview\lectures-01_Overview-04_Ten_Bouncing_Balls\ball.gpr</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 1" line=" 1" >
+      <vfs_project>C:\Software\ada\ada_practice\adaCoreU\01_overview\lectures-01_Overview-04_Ten_Bouncing_Balls\ball.gpr</vfs_project>
+      <vfs_file>C:\Software\ada\ada_practice\adaCoreU\01_overview\lectures-01_Overview-04_Ten_Bouncing_Balls\main.adb</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>

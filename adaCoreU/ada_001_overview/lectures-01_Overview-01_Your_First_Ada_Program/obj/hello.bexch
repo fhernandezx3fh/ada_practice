@@ -1,0 +1,19 @@
+[GENERATED OBJECT FILE]
+b__hello.o
+[PROJECT FILES]
+C:\Software\ada\adaCoreU\01_overview\lectures-01_Overview-01_Your_First_Ada_Program\lectures-01_Overview-01_Your_First_Ada_Program\hello.gpr
+20180108134450
+[BOUND OBJECT FILES]
+C:\Software\ada\adaCoreU\01_overview\lectures-01_Overview-01_Your_First_Ada_Program\lectures-01_Overview-01_Your_First_Ada_Program\obj\hello.o
+[GENERATED SOURCE FILES]
+b__hello.ads
+b__hello.adb
+b__hello.ali
+[RESULTING OPTIONS]
+-LC:\Software\ada\adaCoreU\01_overview\lectures-01_Overview-01_Your_First_Ada_Program\lectures-01_Overview-01_Your_First_Ada_Program\obj\
+-LC:\Software\ada\adaCoreU\01_overview\lectures-01_Overview-01_Your_First_Ada_Program\lectures-01_Overview-01_Your_First_Ada_Program\obj\
+-LC:/gnat/2017/lib/gcc/i686-pc-mingw32/6.3.1/adalib/
+-static
+-static-libgcc
+C:/gnat/2017/lib/gcc/i686-pc-mingw32/6.3.1/adalib/libgnat.a
+-Wl,--stack=0x2000000

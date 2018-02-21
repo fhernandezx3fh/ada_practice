@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<Locations >
+  <Project>
+    <vfs_file>C:\Software\ada\adaCoreU\01_overview\lectures-01_Overview-02_A_Bouncing_Ball\lectures-01_Overview-02_A_Bouncing_Ball\ball.gpr</vfs_file>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Software\ada\adaCoreU\01_overview\lectures-01_Overview-02_A_Bouncing_Ball\lectures-01_Overview-02_A_Bouncing_Ball\ball.gpr</vfs_project>
+      <vfs_file>C:\Software\ada\adaCoreU\01_overview\lectures-01_Overview-02_A_Bouncing_Ball\lectures-01_Overview-02_A_Bouncing_Ball\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Software\ada\adaCoreU\01_overview\lectures-01_Overview-02_A_Bouncing_Ball\lectures-01_Overview-02_A_Bouncing_Ball\ball.gpr</vfs_project>
+      <vfs_file>C:\Software\ada\adaCoreU\01_overview\lectures-01_Overview-02_A_Bouncing_Ball\lectures-01_Overview-02_A_Bouncing_Ball\main2.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 19" line=" 31" >
+      <vfs_project>C:\Software\ada\adaCoreU\01_overview\lectures-01_Overview-02_A_Bouncing_Ball\lectures-01_Overview-02_A_Bouncing_Ball\ball.gpr</vfs_project>
+      <vfs_file>C:\Software\ada\adaCoreU\01_overview\lectures-01_Overview-02_A_Bouncing_Ball\lectures-01_Overview-02_A_Bouncing_Ball\main2.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 7" line=" 42" >
+      <vfs_project>C:\Software\ada\adaCoreU\01_overview\lectures-01_Overview-02_A_Bouncing_Ball\lectures-01_Overview-02_A_Bouncing_Ball\ball.gpr</vfs_project>
+      <vfs_file>C:\Software\ada\adaCoreU\01_overview\lectures-01_Overview-02_A_Bouncing_Ball\lectures-01_Overview-02_A_Bouncing_Ball\main2.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 11" line=" 37" >
+      <vfs_project>C:\Software\ada\adaCoreU\01_overview\lectures-01_Overview-02_A_Bouncing_Ball\lectures-01_Overview-02_A_Bouncing_Ball\ball.gpr</vfs_project>
+      <vfs_file>C:\Software\ada\adaCoreU\01_overview\lectures-01_Overview-02_A_Bouncing_Ball\lectures-01_Overview-02_A_Bouncing_Ball\main2.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 11" line=" 5" >
+      <vfs_project>C:\Software\ada\adaCoreU\01_overview\lectures-01_Overview-02_A_Bouncing_Ball\lectures-01_Overview-02_A_Bouncing_Ball\ball.gpr</vfs_project>
+      <vfs_file>C:\Software\ada\adaCoreU\01_overview\lectures-01_Overview-02_A_Bouncing_Ball\lectures-01_Overview-02_A_Bouncing_Ball\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 9" line=" 22" >
+      <vfs_project>C:\GNAT\2017\share\gpr\Game_Support.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2017\include\game_support\display-basic.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 9" line=" 177" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2017\include\game_support\display-basic.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 9" line=" 22" >
+      <vfs_project>C:\GNAT\2017\share\gpr\Game_Support.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2017\include\game_support\display-basic.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 23" line=" 5" >
+      <vfs_project>C:\Software\ada\adaCoreU\01_overview\lectures-01_Overview-02_A_Bouncing_Ball\lectures-01_Overview-02_A_Bouncing_Ball\ball.gpr</vfs_project>
+      <vfs_file>C:\Software\ada\adaCoreU\01_overview\lectures-01_Overview-02_A_Bouncing_Ball\lectures-01_Overview-02_A_Bouncing_Ball\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 53" >
+      <vfs_project>C:\GNAT\2017\share\gpr\Game_Support.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2017\include\game_support\display-basic.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 94" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2017\include\game_support\display-basic.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 20" line=" 101" >
+      <vfs_project>C:\GNAT\2017\share\gpr\Game_Support.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2017\include\game_support\display-basic.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 23" line=" 5" >
+      <vfs_project>C:\Software\ada\adaCoreU\01_overview\lectures-01_Overview-02_A_Bouncing_Ball\lectures-01_Overview-02_A_Bouncing_Ball\ball.gpr</vfs_project>
+      <vfs_file>C:\Software\ada\adaCoreU\01_overview\lectures-01_Overview-02_A_Bouncing_Ball\lectures-01_Overview-02_A_Bouncing_Ball\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 53" >
+      <vfs_project>C:\GNAT\2017\share\gpr\Game_Support.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2017\include\game_support\display-basic.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 94" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2017\include\game_support\display-basic.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 35" line=" 111" >
+      <vfs_project>C:\GNAT\2017\share\gpr\Game_Support.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2017\include\game_support\display-basic.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 7" line=" 41" >
+      <vfs_project>C:\GNAT\2017\share\gpr\Game_Support.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2017\include\game_support\display-kernel.ads</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>
