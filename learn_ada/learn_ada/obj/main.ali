@@ -1,0 +1,27 @@
+V "GNAT Lib v2019"
+M P W=b
+A -gnatA
+A -mtune=generic
+A -march=x86-64
+P ZX
+
+RN
+RV NO_IMPLEMENTATION_PRAGMAS
+
+U main%b		main.adb		476647b2 NE OO SU
+W imperative_language%s	imperative_language.adb	imperative_language.ali
+
+D imperative_language.ads  20190818013316 8499ba3d imperative_language%s
+D main.adb		20190818013358 c3fffd8f main%b
+D system.ads		20190518041258 32a08138 system%s
+G a e
+G c Z b b [main standard 2 11 none]
+G r c none [main standard 2 11 none] [greet imperative_language 3 13 none]
+G r c none [main standard 2 11 none] [check_positive imperative_language 4 13 none]
+X 1 imperative_language.ads
+1K9*Imperative_Language 6e24 2|1w6 6r3 7r3
+3U13*Greet 2|6s23
+4U13*Check_Positive 2|7s23
+X 2 main.adb
+2U11*Main 2b11 9l5 9t9
+

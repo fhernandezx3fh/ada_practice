@@ -1,0 +1,190 @@
+<?xml version="1.0"?>
+<Locations >
+  <Project>
+    <vfs_file />
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Software\ada\learn_ada\generics\learn_ada.gpr</vfs_project>
+      <vfs_file>C:\Software\ada\learn_ada\generics\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 7" >
+      <vfs_project>C:\Software\ada\learn_ada\generics\learn_ada.gpr</vfs_project>
+      <vfs_file>C:\Software\ada\learn_ada\generics\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Software\ada\learn_ada\generics\learn_ada.gpr</vfs_project>
+      <vfs_file>C:\Software\ada\learn_ada\generics\src\generic_instantiation.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Software\ada\learn_ada\generics\learn_ada.gpr</vfs_project>
+      <vfs_file>C:\Software\ada\learn_ada\generics\src\generic_instantiation.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Software\ada\learn_ada\generics\learn_ada.gpr</vfs_project>
+      <vfs_file>C:\Software\ada\learn_ada\generics\src\show_generic_instantiation.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Software\ada\learn_ada\generics\learn_ada.gpr</vfs_project>
+      <vfs_file>C:\Software\ada\learn_ada\generics\src\show_generic_instantiation.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Software\ada\learn_ada\generics\learn_ada.gpr</vfs_project>
+      <vfs_file>C:\Software\ada\learn_ada\generics\src\show_generic_instantiation.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Software\ada\learn_ada\generics\learn_ada.gpr</vfs_project>
+      <vfs_file>C:\Software\ada\learn_ada\generics\src\show_generic_instantiation.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Software\ada\learn_ada\generics\learn_ada.gpr</vfs_project>
+      <vfs_file>C:\Software\ada\learn_ada\generics\src\show_generic_instantiation.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Software\ada\learn_ada\generics\learn_ada.gpr</vfs_project>
+      <vfs_file>C:\Software\ada\learn_ada\generics\src\show_generic_instantiation.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Software\ada\learn_ada\generics\learn_ada.gpr</vfs_project>
+      <vfs_file>C:\Software\ada\learn_ada\generics\src\show_generic_instantiation.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Software\ada\learn_ada\generics\learn_ada.gpr</vfs_project>
+      <vfs_file>C:\Software\ada\learn_ada\generics\src\show_generic_instantiation.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Software\ada\learn_ada\generics\learn_ada.gpr</vfs_project>
+      <vfs_file>C:\Software\ada\learn_ada\generics\src\show_generic_instantiation.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Software\ada\learn_ada\generics\learn_ada.gpr</vfs_project>
+      <vfs_file>C:\Software\ada\learn_ada\generics\src\show_generic_instantiation.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Software\ada\learn_ada\generics\learn_ada.gpr</vfs_project>
+      <vfs_file>C:\Software\ada\learn_ada\generics\src\generic_instantiation.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Software\ada\learn_ada\generics\learn_ada.gpr</vfs_project>
+      <vfs_file>C:\Software\ada\learn_ada\generics\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 58" line=" 33" >
+      <vfs_project>C:\Software\ada\learn_ada\generics\learn_ada.gpr</vfs_project>
+      <vfs_file>C:\Software\ada\learn_ada\generics\src\generic_instantiation.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 5" >
+      <vfs_project>C:\Software\ada\learn_ada\generics\learn_ada.gpr</vfs_project>
+      <vfs_file>C:\Software\ada\learn_ada\generics\src\generic_package.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 3" >
+      <vfs_project>C:\Software\ada\learn_ada\generics\learn_ada.gpr</vfs_project>
+      <vfs_file>C:\Software\ada\learn_ada\generics\src\generic_package.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 24" line=" 10" >
+      <vfs_project>C:\Software\ada\learn_ada\generics\learn_ada.gpr</vfs_project>
+      <vfs_file>C:\Software\ada\learn_ada\generics\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 3" >
+      <vfs_project>C:\Software\ada\learn_ada\generics\learn_ada.gpr</vfs_project>
+      <vfs_file>C:\Software\ada\learn_ada\generics\src\generic_package.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 24" line=" 10" >
+      <vfs_project>C:\Software\ada\learn_ada\generics\learn_ada.gpr</vfs_project>
+      <vfs_file>C:\Software\ada\learn_ada\generics\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 14" line=" 3" >
+      <vfs_project>C:\Software\ada\learn_ada\generics\learn_ada.gpr</vfs_project>
+      <vfs_file>C:\Software\ada\learn_ada\generics\src\generic_package.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 3" >
+      <vfs_project>C:\Software\ada\learn_ada\generics\learn_ada.gpr</vfs_project>
+      <vfs_file>C:\Software\ada\learn_ada\generics\src\generic_package.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 14" line=" 3" >
+      <vfs_project>C:\Software\ada\learn_ada\generics\learn_ada.gpr</vfs_project>
+      <vfs_file>C:\Software\ada\learn_ada\generics\src\generic_package.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 3" >
+      <vfs_project>C:\Software\ada\learn_ada\generics\learn_ada.gpr</vfs_project>
+      <vfs_file>C:\Software\ada\learn_ada\generics\src\generic_package.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 21" line=" 89" >
+      <vfs_project>C:\Software\ada\learn_ada\generics\learn_ada.gpr</vfs_project>
+      <vfs_file>C:\Software\ada\learn_ada\generics\src\generic_package.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 5" >
+      <vfs_project>C:\Software\ada\learn_ada\generics\learn_ada.gpr</vfs_project>
+      <vfs_file>C:\Software\ada\learn_ada\generics\src\generic_package.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 13" >
+      <vfs_project>C:\Software\ada\learn_ada\generics\learn_ada.gpr</vfs_project>
+      <vfs_file>C:\Software\ada\learn_ada\generics\src\generic_package.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 35" >
+      <vfs_project>C:\Software\ada\learn_ada\generics\learn_ada.gpr</vfs_project>
+      <vfs_file>C:\Software\ada\learn_ada\generics\src\generic_package.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 12" line=" 12" >
+      <vfs_project>C:\Software\ada\learn_ada\generics\learn_ada.gpr</vfs_project>
+      <vfs_file>C:\Software\ada\learn_ada\generics\src\generic_package.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 17" line=" 15" >
+      <vfs_project>C:\Software\ada\learn_ada\generics\learn_ada.gpr</vfs_project>
+      <vfs_file>C:\Software\ada\learn_ada\generics\src\generic_package.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 15" line=" 37" >
+      <vfs_project>C:\Software\ada\learn_ada\generics\learn_ada.gpr</vfs_project>
+      <vfs_file>C:\Software\ada\learn_ada\generics\src\generic_package.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 18" line=" 53" >
+      <vfs_project>C:\Software\ada\learn_ada\generics\learn_ada.gpr</vfs_project>
+      <vfs_file>C:\Software\ada\learn_ada\generics\src\generic_package.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 4" >
+      <vfs_project>C:\Software\ada\learn_ada\generics\learn_ada.gpr</vfs_project>
+      <vfs_file>C:\Software\ada\learn_ada\generics\src\formal_subprogram.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 3" >
+      <vfs_project>C:\Software\ada\learn_ada\generics\learn_ada.gpr</vfs_project>
+      <vfs_file>C:\Software\ada\learn_ada\generics\src\formal_subprogram.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 38" line=" 30" >
+      <vfs_project>C:\Software\ada\learn_ada\generics\learn_ada.gpr</vfs_project>
+      <vfs_file>C:\Software\ada\learn_ada\generics\src\formal_subprogram.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 36" >
+      <vfs_project>C:\Software\ada\learn_ada\generics\learn_ada.gpr</vfs_project>
+      <vfs_file>C:\Software\ada\learn_ada\generics\src\formal_subprogram.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 17" line=" 29" >
+      <vfs_project>C:\Software\ada\learn_ada\generics\learn_ada.gpr</vfs_project>
+      <vfs_file>C:\Software\ada\learn_ada\generics\src\formal_subprogram.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 34" >
+      <vfs_project>C:\Software\ada\learn_ada\generics\learn_ada.gpr</vfs_project>
+      <vfs_file>C:\Software\ada\learn_ada\generics\src\formal_subprogram.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 5" >
+      <vfs_project>C:\Software\ada\learn_ada\generics\learn_ada.gpr</vfs_project>
+      <vfs_file>C:\Software\ada\learn_ada\generics\src\stack.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 3" >
+      <vfs_project>C:\Software\ada\learn_ada\generics\learn_ada.gpr</vfs_project>
+      <vfs_file>C:\Software\ada\learn_ada\generics\src\stack.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 33" line=" 77" >
+      <vfs_project>C:\Software\ada\learn_ada\generics\learn_ada.gpr</vfs_project>
+      <vfs_file>C:\Software\ada\learn_ada\generics\src\stack.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 15" line=" 31" >
+      <vfs_project>C:\Software\ada\learn_ada\generics\learn_ada.gpr</vfs_project>
+      <vfs_file>C:\Software\ada\learn_ada\generics\src\stack.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 5" line=" 80" >
+      <vfs_project>C:\Software\ada\learn_ada\generics\learn_ada.gpr</vfs_project>
+      <vfs_file>C:\Software\ada\learn_ada\generics\src\stack.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 4" line=" 3" >
+      <vfs_project>C:\Software\ada\learn_ada\generics\learn_ada.gpr</vfs_project>
+      <vfs_file>C:\Software\ada\learn_ada\generics\src\swap_colors.adb</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>

@@ -1,0 +1,2 @@
+greet.ads:1:09: package "greet" does not allow a body
+greet.ads:1:09: remove incorrect body in file "greet.adb"

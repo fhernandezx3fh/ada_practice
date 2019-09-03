@@ -1,0 +1,65 @@
+V "GNAT Lib v2019"
+A -gnatA
+A -mtune=generic
+A -march=x86-64
+P ZX
+
+RN
+RV NO_IO
+RV NO_DYNAMIC_SIZED_OBJECTS
+RV NO_IMPLEMENTATION_PRAGMAS
+RV SPARK_05
+
+U generic_instantiation%b  generic_instantiation.adb  de709ffd NE OO PK IL
+W ada%s			ada.ads			ada.ali
+W ada.text_io%s		a-textio.adb		a-textio.ali
+Z system.concat_2%s	s-conca2.adb		s-conca2.ali
+Z system.img_int%s	s-imgint.adb		s-imgint.ali
+
+U generic_instantiation%s  generic_instantiation.ads  adf2d71f EE NE OO PK IL
+
+D ada.ads		20190518041256 76789da1 ada%s
+D a-except.ads		20190518041256 291912d5 ada.exceptions%s
+D a-ioexce.ads		20190518041256 e4a01f64 ada.io_exceptions%s
+D a-stream.ads		20190518041256 119b8fb3 ada.streams%s
+D a-tags.ads		20190518041258 491b781d ada.tags%s
+D a-textio.ads		20190518041258 aef4d56d ada.text_io%s
+D a-unccon.ads		20190518041256 0e9b276f ada.unchecked_conversion%s
+D generic_instantiation.ads  20190903005640 adf2d71f generic_instantiation%s
+D generic_instantiation.adb  20190903005732 dd769d8f generic_instantiation%b
+D interfac.ads		20190518041256 5ab55268 interfaces%s
+D i-cstrea.ads		20190518041256 e53d8b8e interfaces.c_streams%s
+D system.ads		20190518041258 32a08138 system%s
+D s-conca2.ads		20190518041256 02a0d7d0 system.concat_2%s
+D s-crtl.ads		20190518041256 0ebbdb71 system.crtl%s
+D s-exctab.ads		20190518041256 54135002 system.exception_table%s
+D s-ficobl.ads		20190518041258 078245e4 system.file_control_block%s
+D s-imgint.ads		20190518041256 02dbe0c2 system.img_int%s
+D s-parame.ads		20190518041258 48ec542b system.parameters%s
+D s-secsta.ads		20190518041258 20bbe636 system.secondary_stack%s
+D s-soflin.ads		20190518041256 a7318a92 system.soft_links%s
+D s-stache.ads		20190518041258 a37c21ec system.stack_checking%s
+D s-stalib.ads		20190518041258 09bd3940 system.standard_library%s
+D s-stoele.ads		20190518041258 2dc34a04 system.storage_elements%s
+D s-traent.ads		20190518041256 005bf670 system.traceback_entries%s
+D s-unstyp.ads		20190518041256 34867c83 system.unsigned_types%s
+D s-wchcon.ads		20190518041256 1b7d22d2 system.wch_con%s
+G a e
+G c Z s b [show_generic_instantiation generic_instantiation 3 13 none]
+X 1 ada.ads
+16K9*Ada 20e8 9|1r6 1r23
+X 6 a-textio.ads
+57K13*Text_IO 727e16 9|1w10 1r27
+508U14*Put_Line 9|33s7
+X 8 generic_instantiation.ads
+1K9*generic_instantiation 5l5 5e26 9|3b14 36l5 36t26
+3U13*Show_Generic_Instantiation 9|5b14 34l8 34t34
+X 9 generic_instantiation.adb
+8+15 T 9r21 11r26 13r26 21r38
+9*10 X{8+15} 15m10 21r52
+11u17 Set 11>22 13b17 16l11 16t14 21r33
+11*22 E{8+15} 13b22 15r15
+18i7 Main{integer} 21m57 21r57 33r54
+19i7 Current{integer} 30m7 32r17
+21U17 Set_Main[11] 13b17 32s7
+
