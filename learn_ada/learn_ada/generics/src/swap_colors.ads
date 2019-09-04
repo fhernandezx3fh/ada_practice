@@ -1,8 +1,7 @@
-with Ada.Text_IO; use Ada.Text_IO;
+with Ada.Text_Io; use Ada.Text_Io;
 
-package swap_colors is
+package Swap_Colors is
 
-  procedure Test_Non_Generic_Swap_Colors;
+  procedure Test_Swap_Colors;
 
-
-end swap_colors;
+end Swap_Colors;

@@ -1,20 +1,22 @@
 [GENERATED OBJECT FILE]
 b__main.o
 [PROJECT FILES]
-C:\Software\ada\learn_ada\generics\learn_ada.gpr
-20190903004820
+C:\Software\ada\ada_practice\learn_ada\learn_ada\generics\learn_ada.gpr
+20190903233232
 [BOUND OBJECT FILES]
-C:\Software\ada\learn_ada\generics\obj\formal_subprogram.o
-C:\Software\ada\learn_ada\generics\obj\generic_instantiation.o
-C:\Software\ada\learn_ada\generics\obj\generic_package.o
-C:\Software\ada\learn_ada\generics\obj\main.o
+C:\Software\ada\ada_practice\learn_ada\learn_ada\generics\obj\formal_subprogram.o
+C:\Software\ada\ada_practice\learn_ada\learn_ada\generics\obj\generic_instantiation.o
+C:\Software\ada\ada_practice\learn_ada\learn_ada\generics\obj\generic_package.o
+C:\Software\ada\ada_practice\learn_ada\learn_ada\generics\obj\generic_test_reverse_colors.o
+C:\Software\ada\ada_practice\learn_ada\learn_ada\generics\obj\stack.o
+C:\Software\ada\ada_practice\learn_ada\learn_ada\generics\obj\main.o
 [GENERATED SOURCE FILES]
 b__main.ads
 b__main.adb
 b__main.ali
 [RESULTING OPTIONS]
--LC:\Software\ada\learn_ada\generics\obj\
--LC:\Software\ada\learn_ada\generics\obj\
+-LC:\Software\ada\ada_practice\learn_ada\learn_ada\generics\obj\
+-LC:\Software\ada\ada_practice\learn_ada\learn_ada\generics\obj\
 -LC:/gnat/2019/lib/gcc/x86_64-pc-mingw32/8.3.1/adalib/
 -static
 -static-libgcc

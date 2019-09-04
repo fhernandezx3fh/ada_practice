@@ -9,11 +9,11 @@ RV NO_IO
 RV NO_IMPLEMENTATION_PRAGMAS
 RV SPARK_05
 
-U formal_subprogram%b	formal_subprogram.adb	04ac3d8c NE OO PK IL
+U formal_subprogram%b	formal_subprogram.adb	04ac3d8c NE OO PK
 W ada%s			ada.ads			ada.ali
 W ada.text_io%s		a-textio.adb		a-textio.ali
 
-U formal_subprogram%s	formal_subprogram.ads	20a9dfd6 EE NE OO PK IL
+U formal_subprogram%s	formal_subprogram.ads	20a9dfd6 EE NE OO PK
 
 D ada.ads		20190518041256 76789da1 ada%s
 D a-except.ads		20190518041256 291912d5 ada.exceptions%s
@@ -22,8 +22,8 @@ D a-stream.ads		20190518041256 119b8fb3 ada.streams%s
 D a-tags.ads		20190518041258 491b781d ada.tags%s
 D a-textio.ads		20190518041258 aef4d56d ada.text_io%s
 D a-unccon.ads		20190518041256 0e9b276f ada.unchecked_conversion%s
-D formal_subprogram.ads	20190903012506 20a9dfd6 formal_subprogram%s
-D formal_subprogram.adb	20190903013000 8af13737 formal_subprogram%b
+D formal_subprogram.ads	20190903233436 20a9dfd6 formal_subprogram%s
+D formal_subprogram.adb	20190903233322 8af13737 formal_subprogram%b
 D interfac.ads		20190518041256 5ab55268 interfaces%s
 D i-cstrea.ads		20190518041256 e53d8b8e interfaces.c_streams%s
 D system.ads		20190518041258 32a08138 system%s
@@ -45,21 +45,21 @@ X 1 ada.ads
 16K9*Ada 20e8 9|1r6 1r23
 X 6 a-textio.ads
 57K13*Text_IO 727e16 9|1w10 1r27
-508U14*Put_Line 9|18s13 21s13
+508U14*Put_Line 9|18s9 20s9
 X 8 formal_subprogram.ads
-1K9*formal_subprogram 5l5 5e22 9|3b14 39l5 39t22
-3U13*Show_Formal_Subprogram 9|5b14 37l8 37t30
+1K9*Formal_Subprogram 5l5 5e22 9|3b14 37l5 37t22
+3U13*Show_Formal_Subprogram 9|5b13 35l7 35t29
 X 9 formal_subprogram.adb
-8a10 Description{string} 19r33 22r33 29r46
-9+15 T 10r43 11r31 13r31 30r10
-10V24 Comparison{boolean} 10>36 10>39 16s20 30r24
-10*36 X{9+15}
-10*39 Y{9+15}
-11u17 Check 11>24 11>27 13b17 25l11 25t16 29r39
-11*24 X{9+15} 13b24 16r32
-11*27 Y{9+15} 13b27 16r35
-14b10 Result{boolean} 16m10 17r13
-27i7 A{integer} 34m7 36r23
-27i10 B{integer} 35m7 36r26
-29U17 Check_Is_Equal[11] 13b17 36s7
+8a7 Description{string} 18r36 21r28 27r44
+9+12 T 10r40 11r29 13r29 28r7
+10V21 Comparison{boolean} 10>33 10>36 16s17 28r21
+10*33 X{9+12}
+10*36 Y{9+12}
+11u15 Check 11>22 11>25 13b15 23l9 23t14 27r37
+11*22 X{9+12} 13b22 16r29
+11*25 Y{9+12} 13b25 16r32
+14b7 Result{boolean} 16m7 17r10
+25i5 A{integer} 32m5 34r21
+25i8 B{integer} 33m5 34r24
+27U15 Check_Is_Equal[11] 13b15 34s5
 

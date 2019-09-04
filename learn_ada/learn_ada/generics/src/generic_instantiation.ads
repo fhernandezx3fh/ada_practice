@@ -1,5 +1,5 @@
-package generic_instantiation is
+package Generic_Instantiation is
 
   procedure Show_Generic_Instantiation;
 
-end generic_instantiation;
+end Generic_Instantiation;

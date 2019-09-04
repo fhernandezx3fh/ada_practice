@@ -37,7 +37,7 @@ package ada_main is
    pragma Export (C, main, "main");
 
    type Version_32 is mod 2 ** 32;
-   u00001 : constant Version_32 := 16#4fb4eb2f#;
+   u00001 : constant Version_32 := 16#561fcda0#;
    pragma Export (C, u00001, "mainB");
    u00002 : constant Version_32 := 16#050ff2f0#;
    pragma Export (C, u00002, "system__standard_libraryB");
@@ -279,10 +279,22 @@ package ada_main is
    pragma Export (C, u00120, "generic_packageB");
    u00121 : constant Version_32 := 16#73bdf91c#;
    pragma Export (C, u00121, "generic_packageS");
-   u00122 : constant Version_32 := 16#e31b7c4e#;
-   pragma Export (C, u00122, "system__memoryB");
-   u00123 : constant Version_32 := 16#6bdde70c#;
-   pragma Export (C, u00123, "system__memoryS");
+   u00122 : constant Version_32 := 16#4187b0b1#;
+   pragma Export (C, u00122, "generic_test_reverse_colorsB");
+   u00123 : constant Version_32 := 16#4a518d99#;
+   pragma Export (C, u00123, "generic_test_reverse_colorsS");
+   u00124 : constant Version_32 := 16#273384e4#;
+   pragma Export (C, u00124, "system__img_enum_newB");
+   u00125 : constant Version_32 := 16#53ec87f8#;
+   pragma Export (C, u00125, "system__img_enum_newS");
+   u00126 : constant Version_32 := 16#a3463dd7#;
+   pragma Export (C, u00126, "stackB");
+   u00127 : constant Version_32 := 16#553d708c#;
+   pragma Export (C, u00127, "stackS");
+   u00128 : constant Version_32 := 16#e31b7c4e#;
+   pragma Export (C, u00128, "system__memoryB");
+   u00129 : constant Version_32 := 16#6bdde70c#;
+   pragma Export (C, u00129, "system__memoryS");
 
    --  BEGIN ELABORATION ORDER
    --  ada%s
@@ -290,6 +302,8 @@ package ada_main is
    --  ada.characters.latin_1%s
    --  interfaces%s
    --  system%s
+   --  system.img_enum_new%s
+   --  system.img_enum_new%b
    --  system.img_int%s
    --  system.img_int%b
    --  system.io%s
@@ -407,6 +421,10 @@ package ada_main is
    --  generic_instantiation%b
    --  generic_package%s
    --  generic_package%b
+   --  generic_test_reverse_colors%s
+   --  generic_test_reverse_colors%b
+   --  stack%s
+   --  stack%b
    --  main%b
    --  END ELABORATION ORDER
 

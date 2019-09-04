@@ -31,6 +31,8 @@ package body ada_main is
    E005 : Short_Integer; pragma Import (Ada, E005, "formal_subprogram_E");
    E117 : Short_Integer; pragma Import (Ada, E117, "generic_instantiation_E");
    E121 : Short_Integer; pragma Import (Ada, E121, "generic_package_E");
+   E123 : Short_Integer; pragma Import (Ada, E123, "generic_test_reverse_colors_E");
+   E127 : Short_Integer; pragma Import (Ada, E127, "stack_E");
 
    Sec_Default_Sized_Stacks : array (1 .. 1) of aliased System.Secondary_Stack.SS_Stack (System.Parameters.Runtime_Default_Sec_Stack_Size);
 
@@ -205,6 +207,8 @@ package body ada_main is
       E005 := E005 + 1;
       E117 := E117 + 1;
       E121 := E121 + 1;
+      E123 := E123 + 1;
+      E127 := E127 + 1;
    end adainit;
 
    procedure Ada_Main_Program;
@@ -240,12 +244,14 @@ package body ada_main is
    end;
 
 --  BEGIN Object file/option list
-   --   C:\Software\ada\learn_ada\generics\obj\formal_subprogram.o
-   --   C:\Software\ada\learn_ada\generics\obj\generic_instantiation.o
-   --   C:\Software\ada\learn_ada\generics\obj\generic_package.o
-   --   C:\Software\ada\learn_ada\generics\obj\main.o
-   --   -LC:\Software\ada\learn_ada\generics\obj\
-   --   -LC:\Software\ada\learn_ada\generics\obj\
+   --   C:\Software\ada\ada_practice\learn_ada\learn_ada\generics\obj\formal_subprogram.o
+   --   C:\Software\ada\ada_practice\learn_ada\learn_ada\generics\obj\generic_instantiation.o
+   --   C:\Software\ada\ada_practice\learn_ada\learn_ada\generics\obj\generic_package.o
+   --   C:\Software\ada\ada_practice\learn_ada\learn_ada\generics\obj\generic_test_reverse_colors.o
+   --   C:\Software\ada\ada_practice\learn_ada\learn_ada\generics\obj\stack.o
+   --   C:\Software\ada\ada_practice\learn_ada\learn_ada\generics\obj\main.o
+   --   -LC:\Software\ada\ada_practice\learn_ada\learn_ada\generics\obj\
+   --   -LC:\Software\ada\ada_practice\learn_ada\learn_ada\generics\obj\
    --   -LC:/gnat/2019/lib/gcc/x86_64-pc-mingw32/8.3.1/adalib/
    --   -static
    --   -lgnat

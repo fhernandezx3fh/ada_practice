@@ -1,5 +1,5 @@
-package stack is
+package Stack is
 
-   procedure Show_Stack;
+  procedure Show_Stack;
 
-end stack;
+end Stack;

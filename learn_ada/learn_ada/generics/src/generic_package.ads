@@ -1,5 +1,5 @@
-package generic_package is
+package Generic_Package is
 
-   procedure Show_Generic_Package;
+  procedure Show_Generic_Package;
 
-end generic_package;
+end Generic_Package;

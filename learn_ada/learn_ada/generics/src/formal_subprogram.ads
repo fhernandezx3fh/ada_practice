@@ -1,5 +1,5 @@
-package formal_subprogram is
+package Formal_Subprogram is
 
   procedure Show_Formal_Subprogram;
 
-end formal_subprogram;
+end Formal_Subprogram;

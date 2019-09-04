@@ -1,0 +1,96 @@
+V "GNAT Lib v2019"
+A -gnatA
+A -mtune=generic
+A -march=x86-64
+P ZX
+
+RN
+RV NO_IO
+RV NO_SECONDARY_STACK
+RV NO_STANDARD_STORAGE_POOLS
+RV NO_DYNAMIC_SIZED_OBJECTS
+RV NO_IMPLEMENTATION_PRAGMAS
+RV SPARK_05
+
+U generic_test_reverse_colors%b  generic_test_reverse_colors.adb  4187b0b1 NE OO PK
+W ada%s			ada.ads			ada.ali
+Z ada.tags%s		a-tags.adb		a-tags.ali
+W ada.text_io%s		a-textio.adb		a-textio.ali
+Z interfaces%s		interfac.ads		interfac.ali
+Z system%s		system.ads		system.ali
+Z system.concat_2%s	s-conca2.adb		s-conca2.ali
+Z system.img_enum_new%s	s-imenne.adb		s-imenne.ali
+Z system.secondary_stack%s  s-secsta.adb	s-secsta.ali
+
+U generic_test_reverse_colors%s  generic_test_reverse_colors.ads  4a518d99 EE NE OO PK
+
+D ada.ads		20190518041256 76789da1 ada%s
+D a-except.ads		20190518041256 291912d5 ada.exceptions%s
+D a-ioexce.ads		20190518041256 e4a01f64 ada.io_exceptions%s
+D a-stream.ads		20190518041256 119b8fb3 ada.streams%s
+D a-tags.ads		20190518041258 491b781d ada.tags%s
+D a-textio.ads		20190518041258 aef4d56d ada.text_io%s
+D a-unccon.ads		20190518041256 0e9b276f ada.unchecked_conversion%s
+D generic_test_reverse_colors.ads  20190904014024 4a518d99 generic_test_reverse_colors%s
+D generic_test_reverse_colors.adb  20190904014224 a522e845 generic_test_reverse_colors%b
+D interfac.ads		20190518041256 5ab55268 interfaces%s
+D i-cstrea.ads		20190518041256 e53d8b8e interfaces.c_streams%s
+D system.ads		20190518041258 32a08138 system%s
+D s-conca2.ads		20190518041256 02a0d7d0 system.concat_2%s
+D s-crtl.ads		20190518041256 0ebbdb71 system.crtl%s
+D s-exctab.ads		20190518041256 54135002 system.exception_table%s
+D s-ficobl.ads		20190518041258 078245e4 system.file_control_block%s
+D s-imenne.ads		20190518041256 614c06c0 system.img_enum_new%s
+D s-parame.ads		20190518041258 48ec542b system.parameters%s
+D s-secsta.ads		20190518041258 20bbe636 system.secondary_stack%s
+D s-soflin.ads		20190518041256 a7318a92 system.soft_links%s
+D s-stache.ads		20190518041258 a37c21ec system.stack_checking%s
+D s-stalib.ads		20190518041258 09bd3940 system.standard_library%s
+D s-stoele.ads		20190518041258 2dc34a04 system.storage_elements%s
+D s-traent.ads		20190518041256 005bf670 system.traceback_entries%s
+D s-unstyp.ads		20190518041256 34867c83 system.unsigned_types%s
+D s-wchcon.ads		20190518041256 1b7d22d2 system.wch_con%s
+G a e
+G c Z s b [test_reverse_colors generic_test_reverse_colors 3 13 none]
+X 1 ada.ads
+16K9*Ada 20e8 9|1r6 1r23
+X 6 a-textio.ads
+57K13*Text_IO 727e16 9|1w10 1r27
+264U14*New_Line 9|43s7 45s7
+508U14*Put_Line 9|40s9 44s7 49s9
+X 8 generic_test_reverse_colors.ads
+1K9*Generic_Test_Reverse_Colors 5l5 5e32 9|3b14 69l5 69t32
+3U13*Test_Reverse_Colors 9|5b13 67l7 67t26
+X 9 generic_test_reverse_colors.adb
+8+12 T 10r49 26r21 27r21 28r21 56r65
+9I12 Index 10r30 57r7
+10A12 Array_T(8+12)<9I12> 11r49 22r49 57r25
+11u15 Generic_Reverse_Array 11=38 22b15 35l9 35t30 56r42
+11*38 X{10A12} 22b38 24r16 24r28 24r37 27m31 27r31 28m31 28r31 28r34 28r43
+14+12 T 16r49 18r32 59r69
+15I12 Index 16r30 60r7
+16A12 Array_T(14+12)<15I12> 19r39 20r40 37r40 60r25
+17a7 S{string} 40r19 44r30 49r19 60r49
+18V21 Image{string} 18>28 40s30 49s30 61r7
+18*28 E{14+12}
+19U22 Test 19=28 46s7 61r29
+19*28 X{16A12}
+20u15 Perform_Test 20=29 37b15 51l9 51t21 59r55
+20*29 X{16A12} 37b29 39r16 46m13 48r16
+24i11 I 27r34 28r53
+26*11 Tmp{8+12} 30m11 32r22
+27*11 X_Left=27:31{8+12} 30r22 31r11
+28*11 X_Right=28:31{8+12} 31r22 32r11
+39*11 C{14+12} 40r37
+48*11 C{14+12} 49r37
+53E10 Color 53e51 54r53 56r70 59r74 61r16
+53n20 Black{53E10} 63r42
+53n27 Red{53E10} 63r49
+53n32 Green{53E10} 63r54
+53n39 Blue{53E10} 63r61
+53n45 White{53E10} 63r67
+54A10 Color_Array(53E10)<integer> 57r36 60r36 63r17
+56U15 Reverse_Color_Array[11] 22b15 61r37
+59U15 Perform_Test_Reverse_Color_Array[20] 37b15 66s5
+63a5 My_Colors{54A10} 66m39 66r39
+
